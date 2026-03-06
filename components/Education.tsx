@@ -78,10 +78,6 @@ function EducationCard({
           </span>
         </div>
 
-        <p className="text-sm leading-relaxed mb-4" style={{ color: "var(--text-secondary)" }}>
-          {entry.description}
-        </p>
-
         <div className="flex flex-wrap gap-2">
           {entry.tags.map((t) => (
             <span

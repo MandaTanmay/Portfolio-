@@ -11,6 +11,7 @@ const projects = [
       "Developed a machine learning system that predicts delivery time based on multiple real-world factors such as distance, traffic conditions, weather, order priority, delivery method, and transport mode.",
     tech: ["Python", "Scikit-learn", "Pandas", "NumPy", "Matplotlib","Streamlit"],
     github: "https://github.com/Bhanubandaru05/Delivery_Time_Prediction",
+    demo: null,
     accent: "from-indigo-500 to-purple-600",
     glow: "rgba(99,102,241,0.15)",
   },
