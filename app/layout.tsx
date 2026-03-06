@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   keywords: ["Tanmay Manda", "portfolio", "AI developer", "web developer", "computer science", "machine learning", "Next.js", "React"],
   authors: [{ name: "Tanmay Manda" }],
   openGraph: {
-    title: "Tanmay Manda — CS Student & AI Developer",
+    title: "Tanmay Manda | Portfolio",
     description: "Passionate about building intelligent systems and solving real-world problems using AI and modern web technologies.",
     type: "website",
   },
